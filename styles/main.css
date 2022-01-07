@@ -1,0 +1,65 @@
+body {
+    background-color: seashell;
+}
+
+.mainHeader {
+    border: 4px solid seagreen;
+    text-align: center;
+}
+
+.fishCollection {
+    border: 3px solid seagreen;
+    width: 250px;
+    margin-top: 1%;
+}
+
+.fishHeader {
+    border: 1px solid seagreen;
+    text-align: center;
+    background-color: seagreen;
+}
+
+.fishes {
+    border-top: 2px solid seagreen;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.redFish {
+    border: 1px solid seagreen;
+    margin: 1%;
+}
+
+.blueFish {
+    border: 1px solid seagreen;
+    margin: 1%;
+}
+
+.greenFish {
+    border: 1px solid seagreen;
+    margin: 1%;
+}
+
+.traveling {
+    border: 3px solid seagreen;
+    width: 250px;
+    margin-top: 1%;
+}
+
+.travelTips {
+    border-bottom: 2px solid seagreen;
+}
+
+.travelHeader {
+    border: 1px solid seagreen;
+    text-align: center;
+    background-color: seagreen;
+}
+
+.locationHeader {
+    border: 1px solid seagreen;
+    background-color: seagreen;
+}
